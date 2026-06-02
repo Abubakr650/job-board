@@ -1,0 +1,506 @@
+{
+    "jobCategories": [
+        "Development",
+        "Finance/Accounting",
+        "Healthcare",
+        "Administration",
+        "Engineering",
+        "Sales/Marketing",
+        "Consulting",
+        "Computers/IT",
+        "Human Resources",
+        "Education/Training",
+        "Logistics",
+        "Legal/Law",
+        "Others"
+    ],
+    "companies": [
+        {
+            "name": "Nexus Financial Group",
+            "address": "500 Wall Street, New York, NY 10005",
+            "industry": "Finance",
+            "website": "https://nexusfinancial.com",
+            "description": "Global investment banking and financial services firm"
+        },
+        {
+            "name": "MediCare Solutions",
+            "address": "200 Health Plaza, Boston, MA 02115",
+            "industry": "Healthcare",
+            "website": "https://medicaresolutions.org",
+            "description": "Healthcare provider network with innovative patient care systems"
+        },
+        {
+            "name": "LogiTrans Global",
+            "address": "777 Harbor Drive, Miami, FL 33132",
+            "industry": "Logistics",
+            "website": "https://logitransglobal.com",
+            "description": "Supply chain management and logistics optimization specialists"
+        },
+        {
+            "name": "EduGrowth Partners",
+            "address": "300 Campus Boulevard, Austin, TX 78701",
+            "industry": "Education",
+            "website": "https://edugrowthpartners.com",
+            "description": "Educational technology and professional training provider"
+        },
+        {
+            "name": "TerraEngineering Inc",
+            "address": "400 Innovation Way, Denver, CO 80202",
+            "industry": "Engineering",
+            "website": "https://terraengineering.com",
+            "description": "Infrastructure and sustainable engineering solutions"
+        }
+    ],
+    "jobVacancies": [
+        {
+            "title": "Senior Software Developer",
+            "description": "Develop and maintain enterprise applications using modern technologies",
+            "location": "Remote",
+            "type": "Remote",
+            "salary": 135000,
+            "category": "Development",
+            "company": "EduGrowth Partners",
+            "technologies": ["Java", "Spring Boot", "React", "AWS"]
+        },
+        {
+            "title": "Financial Analyst",
+            "description": "Conduct financial forecasting and investment analysis for client portfolios",
+            "location": "New York, NY",
+            "type": "Full-Time",
+            "salary": 85000,
+            "category": "Finance/Accounting",
+            "company": "Nexus Financial Group",
+            "technologies": ["Excel", "Tableau", "SAP", "SQL"]
+        },
+        {
+            "title": "Registered Nurse",
+            "description": "Provide patient care and coordinate treatment plans in clinical settings",
+            "location": "Boston, MA",
+            "type": "Full-Time",
+            "salary": 78000,
+            "category": "Healthcare",
+            "company": "MediCare Solutions",
+            "technologies": ["EPIC EHR", "CPR Certified", "Patient Monitoring Systems"]
+        },
+        {
+            "title": "Office Administrator",
+            "description": "Manage daily office operations and support executive staff",
+            "location": "Miami, FL",
+            "type": "Hybrid",
+            "salary": 55000,
+            "category": "Administration",
+            "company": "LogiTrans Global",
+            "technologies": ["MS Office", "Google Workspace", "Calendaring Software"]
+        },
+        {
+            "title": "Mechanical Engineer",
+            "description": "Design and test mechanical systems for infrastructure projects",
+            "location": "Denver, CO",
+            "type": "Full-Time",
+            "salary": 95000,
+            "category": "Engineering",
+            "company": "TerraEngineering Inc",
+            "technologies": ["AutoCAD", "SolidWorks", "ANSYS", "MATLAB"]
+        },
+        {
+            "title": "Marketing Manager",
+            "description": "Develop and execute digital marketing campaigns across multiple channels",
+            "location": "Remote",
+            "type": "Remote",
+            "salary": 105000,
+            "category": "Sales/Marketing",
+            "company": "EduGrowth Partners",
+            "technologies": ["Google Analytics", "HubSpot", "SEO Tools", "Social Media Ads"]
+        },
+        {
+            "title": "IT Consultant",
+            "description": "Advise clients on technology infrastructure and digital transformation",
+            "location": "New York, NY",
+            "type": "Full-Time",
+            "salary": 120000,
+            "category": "Consulting",
+            "company": "Nexus Financial Group",
+            "technologies": ["Cloud Migration", "Cybersecurity", "ERP Systems"]
+        },
+        {
+            "title": "Systems Administrator",
+            "description": "Maintain and troubleshoot corporate IT infrastructure",
+            "location": "Boston, MA",
+            "type": "Full-Time",
+            "salary": 90000,
+            "category": "Computers/IT",
+            "company": "MediCare Solutions",
+            "technologies": ["Windows Server", "Linux", "VMware", "Active Directory"]
+        },
+        {
+            "title": "HR Business Partner",
+            "description": "Develop talent management strategies and employee engagement programs",
+            "location": "Miami, FL",
+            "type": "Hybrid",
+            "salary": 92000,
+            "category": "Human Resources",
+            "company": "LogiTrans Global",
+            "technologies": ["Workday", "HR Analytics", "Recruitment Software"]
+        },
+        {
+            "title": "Corporate Trainer",
+            "description": "Design and deliver professional development programs",
+            "location": "Denver, CO",
+            "type": "Full-Time",
+            "salary": 68000,
+            "category": "Education/Training",
+            "company": "TerraEngineering Inc",
+            "technologies": ["LMS Platforms", "Articulate 360", "Virtual Training Tools"]
+        },
+        {
+            "title": "Supply Chain Coordinator",
+            "description": "Optimize logistics operations and inventory management",
+            "location": "Miami, FL",
+            "type": "Full-Time",
+            "salary": 65000,
+            "category": "Logistics",
+            "company": "LogiTrans Global",
+            "technologies": ["SAP SCM", "WMS", "Transportation Management Systems"]
+        },
+        {
+            "title": "Corporate Counsel",
+            "description": "Manage legal affairs and ensure regulatory compliance",
+            "location": "New York, NY",
+            "type": "Hybrid",
+            "salary": 185000,
+            "category": "Legal/Law",
+            "company": "Nexus Financial Group",
+            "technologies": ["Legal Research Software", "Contract Management Systems"]
+        },
+        {
+            "title": "Technical Support Specialist",
+            "description": "Provide IT support and troubleshooting for end-users",
+            "location": "Remote",
+            "type": "Remote",
+            "salary": 60000,
+            "category": "Computers/IT",
+            "company": "EduGrowth Partners",
+            "technologies": ["Helpdesk Software", "Remote Support Tools", "OS Troubleshooting"]
+        },
+        {
+            "title": "Biomedical Engineer",
+            "description": "Develop and maintain medical equipment systems",
+            "location": "Boston, MA",
+            "type": "Full-Time",
+            "salary": 110000,
+            "category": "Engineering",
+            "company": "MediCare Solutions",
+            "technologies": ["Medical Device Software", "Diagnostic Equipment", "FDA Regulations"]
+        },
+        {
+            "title": "Accountant",
+            "description": "Manage financial records and prepare tax documents",
+            "location": "Denver, CO",
+            "type": "Full-Time",
+            "salary": 75000,
+            "category": "Finance/Accounting",
+            "company": "TerraEngineering Inc",
+            "technologies": ["QuickBooks", "Sage", "GAAP Standards", "Tax Software"]
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "Implement CI/CD pipelines and cloud infrastructure",
+            "location": "Remote",
+            "type": "Remote",
+            "salary": 130000,
+            "category": "Development",
+            "company": "LogiTrans Global",
+            "technologies": ["Docker", "Kubernetes", "Azure", "Jenkins"]
+        },
+        {
+            "title": "Sales Director",
+            "description": "Lead sales team and develop business growth strategies",
+            "location": "New York, NY",
+            "type": "Full-Time",
+            "salary": 150000,
+            "category": "Sales/Marketing",
+            "company": "Nexus Financial Group",
+            "technologies": ["CRM Software", "Sales Analytics", "Market Research Tools"]
+        },
+        {
+            "title": "Healthcare Administrator",
+            "description": "Oversee clinic operations and patient services",
+            "location": "Boston, MA",
+            "type": "Full-Time",
+            "salary": 95000,
+            "category": "Healthcare",
+            "company": "MediCare Solutions",
+            "technologies": ["Healthcare Management Systems", "Patient Scheduling Software"]
+        },
+        {
+            "title": "Frontend Developer",
+            "description": "Build responsive user interfaces for educational platforms",
+            "location": "Austin, TX",
+            "type": "Hybrid",
+            "salary": 115000,
+            "category": "Development",
+            "company": "EduGrowth Partners",
+            "technologies": ["React", "TypeScript", "CSS3", "Redux"]
+        },
+        {
+            "title": "Logistics Analyst",
+            "description": "Optimize transportation networks using data analytics",
+            "location": "Miami, FL",
+            "type": "Full-Time",
+            "salary": 72000,
+            "category": "Logistics",
+            "company": "LogiTrans Global",
+            "technologies": ["SQL", "Python", "Supply Chain Modeling", "Data Visualization"]
+        },
+        {
+            "title": "Structural Engineer",
+            "description": "Design and analyze building structures for safety and efficiency",
+            "location": "Denver, CO",
+            "type": "Full-Time",
+            "salary": 105000,
+            "category": "Engineering",
+            "company": "TerraEngineering Inc",
+            "technologies": ["Revit", "ETABS", "Building Codes Analysis", "CAD"]
+        },
+        {
+            "title": "Compliance Specialist",
+            "description": "Ensure adherence to financial regulations and internal policies",
+            "location": "New York, NY",
+            "type": "Hybrid",
+            "salary": 88000,
+            "category": "Finance/Accounting",
+            "company": "Nexus Financial Group",
+            "technologies": ["Compliance Monitoring Systems", "Risk Assessment Tools"]
+        },
+        {
+            "title": "IT Security Analyst",
+            "description": "Protect systems against cyber threats and vulnerabilities",
+            "location": "Remote",
+            "type": "Remote",
+            "salary": 125000,
+            "category": "Computers/IT",
+            "company": "MediCare Solutions",
+            "technologies": ["SIEM Tools", "Firewall Management", "Penetration Testing"]
+        },
+        {
+            "title": "Talent Acquisition Specialist",
+            "description": "Source and recruit top talent for engineering roles",
+            "location": "Denver, CO",
+            "type": "Full-Time",
+            "salary": 78000,
+            "category": "Human Resources",
+            "company": "TerraEngineering Inc",
+            "technologies": ["Applicant Tracking Systems", "LinkedIn Recruiter", "HR Databases"]
+        },
+        {
+            "title": "Management Consultant",
+            "description": "Advise organizations on operational improvements",
+            "location": "Chicago, IL",
+            "type": "Full-Time",
+            "salary": 145000,
+            "category": "Consulting",
+            "company": "LogiTrans Global",
+            "technologies": ["Data Analysis Tools", "Process Modeling Software", "Presentation Software"]
+        },
+         {
+            "title": "Part-Time Accountant",
+            "description": "Manage financial records and assist with monthly closing processes. Ideal for finance professionals seeking flexible hours.",
+            "location": "Chicago, IL",
+            "type": "Part-Time",
+            "salary": 45000,
+            "category": "Finance/Accounting",
+            "company": "Nexus Financial Group",
+            "technologies": ["QuickBooks", "Excel", "Financial Reporting"]
+        },
+        {
+            "title": "Medical Receptionist",
+            "description": "Front desk operations and patient coordination in a busy healthcare facility. Part-Time evening shifts available.",
+            "location": "Boston, MA",
+            "type": "Part-Time",
+            "salary": 32000,
+            "category": "Healthcare",
+            "company": "MediCare Solutions",
+            "technologies": ["Practice Management Software", "Electronic Health Records"]
+        },
+        {
+            "title": "HR Coordinator",
+            "description": "Support recruitment processes and employee onboarding activities. Flexible hybrid schedule available.",
+            "location": "Denver, CO",
+            "type": "Part-Time",
+            "salary": 40000,
+            "category": "Human Resources",
+            "company": "TerraEngineering Inc",
+            "technologies": ["HRIS Systems", "Applicant Tracking Software"]
+        },
+        {
+            "title": "Part-Time ESL Instructor",
+            "description": "Teach English language courses to adult learners in evening classes. Curriculum materials provided.",
+            "location": "Austin, TX",
+            "type": "Part-Time",
+            "salary": 38000,
+            "category": "Education/Training",
+            "company": "EduGrowth Partners",
+            "technologies": ["Learning Management Systems", "Video Conferencing Tools"]
+        },
+        {
+            "title": "Warehouse Associate",
+            "description": "Part-Time inventory management and order fulfillment in distribution center. Weekend shifts available.",
+            "location": "Miami, FL",
+            "type": "Part-Time",
+            "salary": 28000,
+            "category": "Logistics",
+            "company": "LogiTrans Global",
+            "technologies": ["Inventory Management Software", "Barcode Scanners"]
+        },
+        {
+            "title": "Cybersecurity Specialist",
+            "description": "Implement security protocols and monitor network vulnerabilities for financial systems.",
+            "location": "New York, NY",
+            "type": "Full-Time",
+            "salary": 135000,
+            "category": "Computers/IT",
+            "company": "Nexus Financial Group",
+            "technologies": ["Firewall Management", "SIEM Tools", "Penetration Testing"]
+        },
+        {
+            "title": "Clinical Research Coordinator",
+            "description": "Manage clinical trial documentation and ensure regulatory compliance in medical studies.",
+            "location": "Boston, MA",
+            "type": "Full-Time",
+            "salary": 75000,
+            "category": "Healthcare",
+            "company": "MediCare Solutions",
+            "technologies": ["Clinical Trial Management Systems", "eCRF Platforms"]
+        },
+        {
+            "title": "Technical Writer",
+            "description": "Create technical documentation and user manuals for engineering products.",
+            "location": "Remote",
+            "type": "Remote",
+            "salary": 82000,
+            "category": "Others",
+            "company": "TerraEngineering Inc",
+            "technologies": ["MadCap Flare", "Markdown", "Diagramming Tools"]
+        },
+        {
+            "title": "Tax Manager",
+            "description": "Lead tax planning and compliance strategies for corporate clients.",
+            "location": "Chicago, IL",
+            "type": "Full-Time",
+            "salary": 130000,
+            "category": "Finance/Accounting",
+            "company": "Nexus Financial Group",
+            "technologies": ["Thomson Reuters", "CCH Axcess", "Tax Analysis Software"]
+        },
+        {
+            "title": "Preschool Teacher",
+            "description": "Develop early childhood curriculum and facilitate learning activities.",
+            "location": "Austin, TX",
+            "type": "Full-Time",
+            "salary": 48000,
+            "category": "Education/Training",
+            "company": "EduGrowth Partners",
+            "technologies": ["Educational Apps", "Classroom Management Systems"]
+        },
+        {
+            "title": "Logistics Manager",
+            "description": "Oversee supply chain operations and optimize transportation networks.",
+            "location": "Miami, FL",
+            "type": "Full-Time",
+            "salary": 95000,
+            "category": "Logistics",
+            "company": "LogiTrans Global",
+            "technologies": ["SAP SCM", "Transportation Management Systems"]
+        },
+        {
+            "title": "Environmental Engineer",
+            "description": "Develop sustainable solutions for waste management and pollution control.",
+            "location": "Denver, CO",
+            "type": "Hybrid",
+            "salary": 105000,
+            "category": "Engineering",
+            "company": "TerraEngineering Inc",
+            "technologies": ["GIS Software", "Environmental Modeling Tools"]
+        },
+        {
+            "title": "Part-Time Social Media Manager",
+            "description": "Manage corporate social channels and create engaging content. 20 hours/week.",
+            "location": "Remote",
+            "type": "Part-Time",
+            "salary": 35000,
+            "category": "Sales/Marketing",
+            "company": "EduGrowth Partners",
+            "technologies": ["Hootsuite", "Canva", "Analytics Platforms"]
+        },
+        {
+            "title": "Legal Assistant",
+            "description": "Support legal team with document preparation and case management.",
+            "location": "New York, NY",
+            "type": "Full-Time",
+            "salary": 62000,
+            "category": "Legal/Law",
+            "company": "Nexus Financial Group",
+            "technologies": ["Legal Research Databases", "Document Management Systems"]
+        },
+        {
+            "title": "Network Administrator",
+            "description": "Maintain corporate IT infrastructure and ensure network reliability.",
+            "location": "Boston, MA",
+            "type": "Full-Time",
+            "salary": 98000,
+            "category": "Computers/IT",
+            "company": "MediCare Solutions",
+            "technologies": ["Cisco IOS", "Firewall Configuration", "VPN Management"]
+        },
+        {
+            "title": "Part-Time Data Entry Clerk",
+            "description": "Input and verify data in company systems. Flexible morning shifts.",
+            "location": "Miami, FL",
+            "type": "Part-Time",
+            "salary": 26000,
+            "category": "Administration",
+            "company": "LogiTrans Global",
+            "technologies": ["Data Processing Software", "Spreadsheet Applications"]
+        },
+        {
+            "title": "Organizational Development Consultant",
+            "description": "Improve workplace efficiency through process optimization and team training.",
+            "location": "Chicago, IL",
+            "type": "Full-Time",
+            "salary": 115000,
+            "category": "Consulting",
+            "company": "Nexus Financial Group",
+            "technologies": ["Survey Tools", "Process Mapping Software"]
+        },
+        {
+            "title": "Pharmacy Technician",
+            "description": "Assist pharmacists in medication preparation and inventory management.",
+            "location": "Boston, MA",
+            "type": "Part-Time",
+            "salary": 38000,
+            "category": "Healthcare",
+            "company": "MediCare Solutions",
+            "technologies": ["Pharmacy Management Systems", "Prescription Processing"]
+        },
+        {
+            "title": "SEO Specialist",
+            "description": "Optimize web content and improve search engine rankings for educational platforms.",
+            "location": "Remote",
+            "type": "Remote",
+            "salary": 78000,
+            "category": "Sales/Marketing",
+            "company": "EduGrowth Partners",
+            "technologies": ["Google Analytics", "SEMrush", "Keyword Research Tools"]
+        },
+        {
+            "title": "Facilities Coordinator",
+            "description": "Manage office maintenance and space planning for engineering firm.",
+            "location": "Denver, CO",
+            "type": "Full-Time",
+            "salary": 58000,
+            "category": "Administration",
+            "company": "TerraEngineering Inc",
+            "technologies": ["Facility Management Software", "CAD Planning Tools"]
+        }
+    ]
+}

@@ -1,0 +1,634 @@
+{
+    "jobApplications": [
+        {
+            "status": "pending",
+            "aiGeneratedScore": 87,
+            "aiGeneratedFeedback": "Strong financial analysis skills with relevant experience in investment banking. Excellent match for financial analyst position.",
+            "resume": {
+                "filename": "robert_chen_resume.pdf",
+                "fileUrl": "resumes/robert_chen_resume.pdf",
+                "contactDetails": "Phone: (212) 555-0123, Email: robert.chen@example.com, LinkedIn: linkedin.com/in/robertchen",
+                "summary": "Financial Analyst with 5+ years of experience in investment banking and portfolio management. CFA Level II candidate with expertise in financial modeling and market analysis.",
+                "skills": "Financial Modeling, Excel, Tableau, SQL, Portfolio Management, Risk Assessment, GAAP Compliance",
+                "experience": "Financial Analyst at Capital Investments (2019-Present)\n- Developed investment models with 15% ROI improvement\n- Managed $50M client portfolios\n\nJunior Analyst at Metro Bank (2017-2019)\n- Prepared quarterly financial reports\n- Conducted market trend analysis",
+                "education": "MBA in Finance, Wharton School (2015-2017)\nBSc in Economics, NYU (2011-2015)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 94,
+            "aiGeneratedFeedback": "Exceptional clinical experience and technical skills. Perfect fit for senior nursing position with leadership potential.",
+            "resume": {
+                "filename": "sarah_johnson_resume.pdf",
+                "fileUrl": "resumes/sarah_johnson_resume.pdf",
+                "contactDetails": "Phone: (617) 555-9876, Email: sarah.johnson@example.com, LinkedIn: linkedin.com/in/sarahjohnson",
+                "summary": "Registered Nurse with 8 years of clinical experience specializing in emergency care and patient management. BLS and ACLS certified.",
+                "skills": "Patient Care, EPIC EHR, Triage, Medication Administration, Critical Care, Patient Education",
+                "experience": "Senior RN at Boston Medical Center (2018-Present)\n- Managed ER department dUrlng night shifts\n- Trained 15+ junior nurses\n\nRN at City Hospital (2015-2018)\n- Provided emergency care to 50+ daily patients",
+                "education": "BSN, Boston College (2011-2015)\nRN Certification, Massachusetts Board (2015)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 51,
+            "aiGeneratedFeedback": "Insufficient logistics experience and lacks required technical skills for supply chain coordinator role.",
+            "resume": {
+                "filename": "david_kim_resume.pdf",
+                "fileUrl": "resumes/david_kim_resume.pdf",
+                "contactDetails": "Phone: (305) 555-4567, Email: david.kim@example.com, LinkedIn: linkedin.com/in/davidkim",
+                "summary": "Recent graduate seeking entry-level position in logistics. Completed internship in warehouse operations.",
+                "skills": "Inventory Management, Microsoft Office, Basic Data Analysis, Team Coordination",
+                "experience": "Logistics Intern at South Florida Distributors (2022-2023)\n- Assisted with inventory audits\n- Managed shipping documentation",
+                "education": "BS in Supply Chain Management, FIU (2018-2022)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 79,
+            "aiGeneratedFeedback": "Solid educational background and teaching methodology. Good fit for ESL instructor position with some classroom experience.",
+            "resume": {
+                "filename": "emily_garcia_resume.pdf",
+                "fileUrl": "resumes/emily_garcia_resume.pdf",
+                "contactDetails": "Phone: (512) 555-2345, Email: emily.garcia@example.com, LinkedIn: linkedin.com/in/emilygarcia",
+                "summary": "ESL Instructor with 3 years of experience teaching diverse student populations. TESOL certified with focus on adult education.",
+                "skills": "Curriculum Development, Classroom Management, Language Assessment, Cultural Sensitivity, Online Teaching Platforms",
+                "experience": "ESL Teacher at Austin Language Center (2020-Present)\n- Developed specialized curriculum for business English\n- Taught classes of 15-20 adult learners\n\nTeaching Assistant at UT Austin (2018-2020)",
+                "education": "MA in Linguistics, UT Austin (2016-2018)\nBA in Education, UT Austin (2012-2016)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 91,
+            "aiGeneratedFeedback": "Exceptional structural engineering expertise with major project experience. Ideal candidate for senior engineering role.",
+            "resume": {
+                "filename": "michael_rodriguez_resume.pdf",
+                "fileUrl": "resumes/michael_rodriguez_resume.pdf",
+                "contactDetails": "Phone: (303) 555-6789, Email: michael.rodriguez@example.com, LinkedIn: linkedin.com/in/michaelrodriguez",
+                "summary": "Structural Engineer with 10+ years of experience in commercial building design. PE licensed with expertise in seismic retrofitting.",
+                "skills": "Revit, ETABS, AutoCAD, Building Codes Analysis, Project Management, Structural Analysis",
+                "experience": "Lead Engineer at Mountain Structures (2018-Present)\n- Designed award-winning high-rise in Denver\n- Managed team of 5 engineers\n\nEngineer at Urban Design Group (2013-2018)",
+                "education": "MS in Civil Engineering, CU Boulder (2011-2013)\nBS in Civil Engineering, CU Boulder (2007-2011)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 83,
+            "aiGeneratedFeedback": "Strong DevOps skills with cloud infrastructure expertise. Good match for cloud engineering position.",
+            "resume": {
+                "filename": "jennifer_wong_resume.pdf",
+                "fileUrl": "resumes/jennifer_wong_resume.pdf",
+                "contactDetails": "Phone: (650) 555-3456, Email: jennifer.wong@example.com, LinkedIn: linkedin.com/in/jenniferwong",
+                "summary": "DevOps Engineer with 5 years of experience in cloud infrastructure and CI/CD pipelines. AWS Certified Solutions Architect.",
+                "skills": "Docker, Kubernetes, AWS, Azure, Terraform, Jenkins, Python, Linux Administration",
+                "experience": "Cloud Engineer at TechNova (2020-Present)\n- Reduced deployment time by 40%\n- Implemented secUrlty best practices\n\nSystems Administrator at DataCore (2017-2020)",
+                "education": "BS in Computer Science, Stanford (2013-2017)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 48,
+            "aiGeneratedFeedback": "Lacks required compliance experience and regulatory knowledge for financial compliance role.",
+            "resume": {
+                "filename": "thomas_nguyen_resume.pdf",
+                "fileUrl": "resumes/thomas_nguyen_resume.pdf",
+                "contactDetails": "Phone: (212) 555-7890, Email: thomas.nguyen@example.com, LinkedIn: linkedin.com/in/thomasnguyen",
+                "summary": "Recent finance graduate seeking entry-level compliance position. Completed internship in banking operations.",
+                "skills": "Financial Regulations, Risk Assessment, Excel, Report Writing",
+                "experience": "Compliance Intern at Metro Bank (2022)\n- Assisted with regulatory filings\n- Monitored transactions for suspicious activity",
+                "education": "BBA in Finance, Baruch College (2018-2022)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 76,
+            "aiGeneratedFeedback": "Solid healthcare administration experience with EHR expertise. Good fit for clinic management role.",
+            "resume": {
+                "filename": "lisa_campbell_resume.pdf",
+                "fileUrl": "resumes/lisa_campbell_resume.pdf",
+                "contactDetails": "Phone: (617) 555-1234, Email: lisa.campbell@example.com, LinkedIn: linkedin.com/in/lisacampbell",
+                "summary": "Healthcare Administrator with 6 years of experience managing clinic operations and patient services.",
+                "skills": "EPIC EHR, Staff Management, Budgeting, Regulatory Compliance, Patient Scheduling",
+                "experience": "Clinic Manager at Boston Health Partners (2019-Present)\n- Managed 20-person multidisciplinary clinic\n- Improved patient satisfaction by 25%\n\nAdministrative Coordinator at City Medical (2016-2019)",
+                "education": "MPH, Boston University (2014-2016)\nBA in Healthcare Administration, UMass (2010-2014)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 90,
+            "aiGeneratedFeedback": "Excellent logistics optimization skills with quantifiable results. Ideal candidate for supply chain management role.",
+            "resume": {
+                "filename": "kevin_patel_resume.pdf",
+                "fileUrl": "resumes/kevin_patel_resume.pdf",
+                "contactDetails": "Phone: (305) 555-5678, Email: kevin.patel@example.com, LinkedIn: linkedin.com/in/kevinpatel",
+                "summary": "Logistics Manager with 8 years of experience optimizing global supply chains. APICS certified with expertise in cost reduction.",
+                "skills": "SAP SCM, Transportation Management, Warehouse Optimization, Data Analytics, Supplier Negotiation",
+                "experience": "Logistics Director at Global Goods Inc. (2020-Present)\n- Reduced shipping costs by 18%\n- Managed 30+ supplier relationships\n\nSupply Chain Analyst at Trade Logistics (2016-2020)",
+                "education": "MS in Supply Chain Management, MIT (2014-2016)\nBS in Business Administration, FIU (2010-2014)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 81,
+            "aiGeneratedFeedback": "Strong technical background with cybersecUrlty certifications. Good match for IT secUrlty analyst position.",
+            "resume": {
+                "filename": "natalie_bennett_resume.pdf",
+                "fileUrl": "resumes/natalie_bennett_resume.pdf",
+                "contactDetails": "Phone: (617) 555-8765, Email: natalie.bennett@example.com, LinkedIn: linkedin.com/in/nataliebennett",
+                "summary": "CybersecUruty Specialist with 5 years of experience in threat analysis and vulnerability management. CISSP and CEH certified.",
+                "skills": "SIEM Tools, Penetration Testing, Firewall Configuration, Incident Response, Risk Assessment",
+                "experience": "SecUrlty Analyst at CyberDefense Inc. (2020-Present)\n- Prevented 3 major secUrlty breaches\n- Implemented enterprise secUrlty protocols\n\nNetwork Administrator at TechSecure (2017-2020)",
+                "education": "MS in CybersecUrlty, Northeastern (2015-2017)\nBS in Computer Science, BU (2011-2015)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 55,
+            "aiGeneratedFeedback": "Insufficient experience with modern HRIS systems for HR business partner role.",
+            "resume": {
+                "filename": "ryan_oconnor_resume.pdf",
+                "fileUrl": "resumes/ryan_oconnor_resume.pdf",
+                "contactDetails": "Phone: (303) 555-4321, Email: ryan.oconnor@example.com, LinkedIn: linkedin.com/in/ryanoconnor",
+                "summary": "HR Coordinator with 2 years of experience in recruitment and employee relations.",
+                "skills": "Recruitment, Onboarding, Employee Engagement, Basic HR Analytics",
+                "experience": "HR Assistant at Denver Services (2021-Present)\n- Managed recruitment for entry-level positions\n- Coordinated employee events\n\nHR Intern at Mountain Corp (2020-2021)",
+                "education": "BA in Psychology, CU Denver (2016-2020)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 85,
+            "aiGeneratedFeedback": "Excellent financial modeling skills with relevant banking experience. Strong candidate for investment analyst role.",
+            "resume": {
+                "filename": "daniel_kim_resume.pdf",
+                "fileUrl": "resumes/daniel_kim_resume.pdf",
+                "contactDetails": "Phone: (212) 555-1122, Email: daniel.kim@example.com, LinkedIn: linkedin.com/in/danielkim",
+                "summary": "Investment Analyst with 4 years of experience in portfolio management and financial modeling. CFA Level III candidate.",
+                "skills": "Financial Analysis, Portfolio Management, Bloomberg Terminal, Excel Modeling, Risk Assessment",
+                "experience": "Analyst at Capital Partners (2020-Present)\n- Managed $75M client assets\n- Developed predictive market models\n\nResearch Associate at Wall Street Analytics (2018-2020)",
+                "education": "MBA in Finance, Columbia (2016-2018)\nBSc in Economics, NYU (2012-2016)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 93,
+            "aiGeneratedFeedback": "Exceptional clinical research expertise with FDA protocol experience. Perfect fit for clinical research coordinator position.",
+            "resume": {
+                "filename": "olivia_martinez_resume.pdf",
+                "fileUrl": "resumes/olivia_martinez_resume.pdf",
+                "contactDetails": "Phone: (617) 555-5544, Email: olivia.martinez@example.com, LinkedIn: linkedin.com/in/oliviamartinez",
+                "summary": "Clinical Research Coordinator with 7 years of experience managing pharmaceutical trials. CCRP certified.",
+                "skills": "Clinical Trial Management, FDA Regulations, Protocol Development, Data Collection, Patient Recruitment",
+                "experience": "Senior CRC at Boston Research Institute (2019-Present)\n- Managed 12+ Phase III trials\n- Ensured 100% regulatory compliance\n\nCRC at City Medical Research (2016-2019)",
+                "education": "MS in Clinical Research, Harvard (2014-2016)\nBS in Biology, Tufts (2010-2014)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 77,
+            "aiGeneratedFeedback": "Good technical writing skills with engineering documentation experience. Suitable for technical writer position.",
+            "resume": {
+                "filename": "ethan_wilson_resume.pdf",
+                "fileUrl": "resumes/ethan_wilson_resume.pdf",
+                "contactDetails": "Phone: (303) 555-6677, Email: ethan.wilson@example.com, LinkedIn: linkedin.com/in/ethanwilson",
+                "summary": "Technical Writer with 4 years of experience creating engineering documentation and user manuals.",
+                "skills": "MadCap Flare, Markdown, API Documentation, Diagramming Tools, Content Management",
+                "experience": "Technical Writer at TechDocs Inc. (2020-Present)\n- Created documentation for 50+ products\n- Reduced support calls by 30%\n\nJunior Writer at Documentation Services (2018-2020)",
+                "education": "BA in Technical Communication, CU Boulder (2014-2018)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 60,
+            "aiGeneratedFeedback": "Basic tax preparation skills but lacks required corporate tax experience for senior tax manager position.",
+            "resume": {
+                "filename": "sophia_thompson_resume.pdf",
+                "fileUrl": "resumes/sophia_thompson_resume.pdf",
+                "contactDetails": "Phone: (312) 555-8899, Email: sophia.thompson@example.com, LinkedIn: linkedin.com/in/sophiathompson",
+                "summary": "Accountant with 3 years of experience in small business tax preparation and bookkeeping.",
+                "skills": "QuickBooks, Tax Preparation, Financial Reporting, GAAP Compliance",
+                "experience": "Accountant at Small Business Services (2020-Present)\n- Managed books for 30+ clients\n- Prepared individual and business tax returns\n\nBookkeeper at Local Accounting (2019-2020)",
+                "education": "BS in Accounting, DePaul (2015-2019)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 82,
+            "aiGeneratedFeedback": "Strong environmental engineering background with sustainability focus. Good match for green infrastructure projects.",
+            "resume": {
+                "filename": "liam_jackson_resume.pdf",
+                "fileUrl": "resumes/liam_jackson_resume.pdf",
+                "contactDetails": "Phone: (303) 555-9900, Email: liam.jackson@example.com, LinkedIn: linkedin.com/in/liamjackson",
+                "summary": "Environmental Engineer with 5 years of experience in sustainable design and pollution control. LEED AP certified.",
+                "skills": "GIS Software, Environmental Modeling, Sustainability Planning, Regulatory Compliance",
+                "experience": "Environmental Engineer at GreenDesign Co. (2020-Present)\n- Designed wastewater treatment systems\n- Reduced client environmental impact by 40%\n\nJunior Engineer at EcoSolutions (2018-2020)",
+                "education": "MS in Environmental Engineering, CU Denver (2016-2018)\nBS in Civil Engineering, CSU (2012-2016)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 92,
+            "aiGeneratedFeedback": "Exceptional organizational development expertise with measurable results. Ideal candidate for senior consulting role.",
+            "resume": {
+                "filename": "ava_miller_resume.pdf",
+                "fileUrl": "resumes/ava_miller_resume.pdf",
+                "contactDetails": "Phone: (312) 555-2233, Email: ava.miller@example.com, LinkedIn: linkedin.com/in/avamiller",
+                "summary": "Management Consultant with 10 years of experience in operational efficiency and business transformation.",
+                "skills": "Process Optimization, Change Management, Data Analysis, Stakeholder Engagement",
+                "experience": "Senior Consultant at Strategic Solutions (2018-Present)\n- Generated $15M in client savings\n- Led 5+ enterprise transformations\n\nConsultant at Business Innovators (2014-2018)",
+                "education": "MBA, Northwestern (2012-2014)\nBS in Business Administration, UIUC (2008-2012)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 78,
+            "aiGeneratedFeedback": "Solid pharmacy technician experience with inventory management skills. Suitable for part-time pharmacy role.",
+            "resume": {
+                "filename": "noah_harris_resume.pdf",
+                "fileUrl": "resumes/noah_harris_resume.pdf",
+                "contactDetails": "Phone: (617) 555-7788, Email: noah.harris@example.com, LinkedIn: linkedin.com/in/noahharris",
+                "summary": "Certified Pharmacy Technician with 4 years of experience in medication preparation and inventory control.",
+                "skills": "Pharmacy Software, Prescription Processing, Inventory Management, HIPAA Compliance",
+                "experience": "Pharmacy Tech at City Pharmacy (2020-Present)\n- Processed 200+ daily prescriptions\n- Managed $100k medication inventory\n\nTech Assistant at Community Health (2019-2020)",
+                "education": "Pharmacy Technician Certification, BPS (2019)\nAS in Health Sciences, Bunker Hill CC (2017-2019)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 52,
+            "aiGeneratedFeedback": "Limited SEO experience and lacks certification for specialist position.",
+            "resume": {
+                "filename": "isabella_clark_resume.pdf",
+                "fileUrl": "resumes/isabella_clark_resume.pdf",
+                "contactDetails": "Phone: (650) 555-4455, Email: isabella.clark@example.com, LinkedIn: linkedin.com/in/isabellaclark",
+                "summary": "Digital Marketing Assistant with 1 year of experience in content creation and social media management.",
+                "skills": "Social Media Marketing, Content Creation, Basic SEO, Google Analytics",
+                "experience": "Marketing Assistant at Local Business Group (2022-Present)\n- Managed social media accounts\n- Created blog content\n\nMarketing Intern at Digital Agency (2021-2022)",
+                "education": "BA in Marketing, San Jose State (2017-2021)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 80,
+            "aiGeneratedFeedback": "Good facilities management experience with technical skills. Suitable for facilities coordinator position.",
+            "resume": {
+                "filename": "james_white_resume.pdf",
+                "fileUrl": "resumes/james_white_resume.pdf",
+                "contactDetails": "Phone: (303) 555-1122, Email: james.white@example.com, LinkedIn: linkedin.com/in/jameswhite",
+                "summary": "Facilities Manager with 6 years of experience in maintenance coordination and space planning.",
+                "skills": "Facility Management Software, CAD, HVAC Systems, Safety Compliance, Vendor Management",
+                "experience": "Facilities Coordinator at Corporate Offices (2020-Present)\n- Managed 100k sq ft facility\n- Reduced maintenance costs by 15%\n\nMaintenance Supervisor at Property Group (2017-2020)",
+                "education": "BS in Facilities Management, DU (2013-2017)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 95,
+            "aiGeneratedFeedback": "Exceptional corporate legal expertise with M&A experience. Perfect fit for senior counsel position.",
+            "resume": {
+                "filename": "chloe_king_resume.pdf",
+                "fileUrl": "resumes/chloe_king_resume.pdf",
+                "contactDetails": "Phone: (212) 555-3344, Email: chloe.king@example.com, LinkedIn: linkedin.com/in/chloeking",
+                "summary": "Corporate Attorney with 12 years of experience in M&A, compliance, and contract negotiation. Admitted to NY Bar.",
+                "skills": "Contract Management, Regulatory Compliance, Corporate Governance, Legal Research",
+                "experience": "Senior Counsel at Wall Street Law (2016-Present)\n- Led $500M acquisition deals\n- Managed corporate compliance program\n\nAssociate Attorney at Legal Partners (2011-2016)",
+                "education": "JD, Columbia Law (2008-2011)\nBA in Political Science, Yale (2004-2008)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 75,
+            "aiGeneratedFeedback": "Good IT support skills with relevant certifications. Suitable for technical support specialist role.",
+            "resume": {
+                "filename": "benjamin_adams_resume.pdf",
+                "fileUrl": "resumes/benjamin_adams_resume.pdf",
+                "contactDetails": "Phone: (512) 555-5566, Email: benjamin.adams@example.com, LinkedIn: linkedin.com/in/benjaminadams",
+                "summary": "IT Support Specialist with 3 years of experience in helpdesk operations and system troubleshooting.",
+                "skills": "Helpdesk Support, Windows/Mac OS, Active Directory, Network Troubleshooting, Hardware Repair",
+                "experience": "IT Support at Tech Services (2020-Present)\n- Resolved 50+ weekly support tickets\n- Implemented new ticketing system\n\nHelpdesk Technician at University IT (2019-2020)",
+                "education": "CompTIA A+ Certified (2020)\nAS in Information Technology, Austin CC (2017-2019)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 45,
+            "aiGeneratedFeedback": "Insufficient biomedical engineering experience for medical device role.",
+            "resume": {
+                "filename": "mia_roberts_resume.pdf",
+                "fileUrl": "resumes/mia_roberts_resume.pdf",
+                "contactDetails": "Phone: (617) 555-6677, Email: mia.roberts@example.com, LinkedIn: linkedin.com/in/miaroberts",
+                "summary": "Recent biomedical engineering graduate seeking entry-level position. Completed senior design project on prosthetics.",
+                "skills": "CAD Design, Biomechanics, Medical Device Basics, Technical Documentation",
+                "experience": "Engineering Intern at Medical Innovations (2022)\n- Assisted with prototype development\n- Conducted material testing",
+                "education": "BS in Biomedical Engineering, MIT (2018-2022)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 84,
+            "aiGeneratedFeedback": "Strong talent acquisition experience with technical recruiting skills. Good match for HR business partner role.",
+            "resume": {
+                "filename": "logan_carter_resume.pdf",
+                "fileUrl": "resumes/logan_carter_resume.pdf",
+                "contactDetails": "Phone: (303) 555-7788, Email: logan.carter@example.com, LinkedIn: linkedin.com/in/logancarter",
+                "summary": "HR Business Partner with 5 years of experience in technical recruiting and employee development.",
+                "skills": "Workday, Talent Acquisition, Employee Relations, Performance Management, HR Analytics",
+                "experience": "HR Business Partner at TechGrowth (2020-Present)\n- Hired 100+ technical staff\n- Implemented DEI initiatives\n\nRecruiter at TalentFinders (2017-2020)",
+                "education": "MS in HR Management, DU (2015-2017)\nBA in Psychology, CU Boulder (2011-2015)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 91,
+            "aiGeneratedFeedback": "Exceptional early childhood education experience with innovative curriculum development. Ideal for preschool lead teacher position.",
+            "resume": {
+                "filename": "harper_phillips_resume.pdf",
+                "fileUrl": "resumes/harper_phillips_resume.pdf",
+                "contactDetails": "Phone: (512) 555-8899, Email: harper.phillips@example.com, LinkedIn: linkedin.com/in/harperphillips",
+                "summary": "Preschool Teacher with 7 years of experience in early childhood education and curriculum development.",
+                "skills": "Curriculum Planning, Child Development, Classroom Management, Parent Communication",
+                "experience": "Lead Teacher at Little Explorers (2019-Present)\n- Developed STEM-focused curriculum\n- Improved student readiness by 35%\n\nTeacher at Early Start Academy (2016-2019)",
+                "education": "MA in Early Childhood Education, UT Austin (2014-2016)\nBA in Education, UT Austin (2010-2014)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 79,
+            "aiGeneratedFeedback": "Good social media management skills with analytics experience. Suitable for part-time social media role.",
+            "resume": {
+                "filename": "elijah_turner_resume.pdf",
+                "fileUrl": "resumes/elijah_turner_resume.pdf",
+                "contactDetails": "Phone: (650) 555-9900, Email: elijah.turner@example.com, LinkedIn: linkedin.com/in/elijahturner",
+                "summary": "Social Media Manager with 4 years of experience growing online communities and engagement.",
+                "skills": "Social Media Strategy, Content Creation, Hootsuite, Analytics, Influencer Marketing",
+                "experience": "Social Media Specialist at Digital Boost (2020-Present)\n- Grew Instagram following by 150%\n- Managed $50k ad budget\n\nContent Creator at Media Agency (2018-2020)",
+                "education": "BS in Marketing, Santa Clara (2014-2018)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 58,
+            "aiGeneratedFeedback": "Basic legal knowledge but lacks practical experience for legal assistant role.",
+            "resume": {
+                "filename": "amelia_scott_resume.pdf",
+                "fileUrl": "resumes/amelia_scott_resume.pdf",
+                "contactDetails": "Phone: (212) 555-0011, Email: amelia.scott@example.com, LinkedIn: linkedin.com/in/ameliascott",
+                "summary": "Paralegal graduate seeking entry-level legal assistant position. Completed internship in corporate law.",
+                "skills": "Legal Research, Document Preparation, Case Management, Microsoft Office",
+                "experience": "Legal Intern at Corporate Law Partners (2022)\n- Assisted with deposition preparation\n- Managed case files",
+                "education": "Paralegal Certificate, NYU (2021-2022)\nBA in Political Science, Fordham (2017-2021)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 86,
+            "aiGeneratedFeedback": "Strong network administration skills with relevant certifications. Good match for senior IT role.",
+            "resume": {
+                "filename": "lucas_green_resume.pdf",
+                "fileUrl": "resumes/lucas_green_resume.pdf",
+                "contactDetails": "Phone: (617) 555-2233, Email: lucas.green@example.com, LinkedIn: linkedin.com/in/lucasgreen",
+                "summary": "Network Administrator with 6 years of experience in enterprise infrastructure management. CCNA and CCNP certified.",
+                "skills": "Cisco Networking, Firewall Configuration, VPN Management, System SecUrlty, Cloud Integration",
+                "experience": "Network Administrator at Boston Systems (2020-Present)\n- Managed 500+ device network\n- Reduced downtime by 60%\n\nJunior Admin at TechNet (2017-2020)",
+                "education": "BS in Network Engineering, NEU (2013-2017)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 93,
+            "aiGeneratedFeedback": "Exceptional logistics optimization skills with international experience. Perfect fit for global logistics manager role.",
+            "resume": {
+                "filename": "ella_murphy_resume.pdf",
+                "fileUrl": "resumes/ella_murphy_resume.pdf",
+                "contactDetails": "Phone: (305) 555-3344, Email: ella.murphy@example.com, LinkedIn: linkedin.com/in/ellamurphy",
+                "summary": "Logistics Director with 10 years of experience in global supply chain optimization and cost reduction.",
+                "skills": "Global Logistics, SAP SCM, Cost Analysis, Vendor Negotiation, Process Improvement",
+                "experience": "Logistics Director at International Goods (2018-Present)\n- Saved $12M annually through optimization\n- Managed 50+ international routes\n\nLogistics Manager at TradeCorp (2014-2018)",
+                "education": "MBA in Supply Chain, UM (2012-2014)\nBS in Business, FIU (2008-2012)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 74,
+            "aiGeneratedFeedback": "Good office administration experience with technical skills. Suitable for office administrator position.",
+            "resume": {
+                "filename": "mason_brooks_resume.pdf",
+                "fileUrl": "resumes/mason_brooks_resume.pdf",
+                "contactDetails": "Phone: (305) 555-4455, Email: mason.brooks@example.com, LinkedIn: linkedin.com/in/masonbrooks",
+                "summary": "Office Administrator with 5 years of experience in operations management and executive support.",
+                "skills": "Office Management, Calendar Coordination, Travel Planning, Microsoft Office Suite",
+                "experience": "Office Manager at Corporate Services (2020-Present)\n- Supported C-suite executives\n- Managed $250k office budget\n\nAdministrative Assistant at Business Group (2017-2020)",
+                "education": "BS in Business Administration, FIU (2013-2017)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 50,
+            "aiGeneratedFeedback": "Limited data entry experience and lacks required software proficiency.",
+            "resume": {
+                "filename": "grace_mitchell_resume.pdf",
+                "fileUrl": "resumes/grace_mitchell_resume.pdf",
+                "contactDetails": "Phone: (786) 555-5566, Email: grace.mitchell@example.com, LinkedIn: linkedin.com/in/gracemitchell",
+                "summary": "Recent graduate seeking entry-level administrative position. Strong attention to detail.",
+                "skills": "Data Entry, Microsoft Office, Basic Bookkeeping",
+                "experience": "Administrative Intern at Local Business (2022)\n- Assisted with data organization\n- Managed filing systems",
+                "education": "AS in Business Administration, Miami Dade (2020-2022)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 83,
+            "aiGeneratedFeedback": "Strong mechanical engineering background with project management experience. Good match for infrastructure role.",
+            "resume": {
+                "filename": "owen_richardson_resume.pdf",
+                "fileUrl": "resumes/owen_richardson_resume.pdf",
+                "contactDetails": "Phone: (303) 555-6677, Email: owen.richardson@example.com, LinkedIn: linkedin.com/in/owenrichardson",
+                "summary": "Mechanical Engineer with 6 years of experience in product design and testing.",
+                "skills": "SolidWorks, ANSYS, Prototyping, Thermal Analysis, Project Management",
+                "experience": "Mechanical Engineer at Design Innovations (2020-Present)\n- Led product development team\n- Reduced production costs by 22%\n\nDesign Engineer at ManufactUrlng Solutions (2017-2020)",
+                "education": "MS in Mechanical Engineering, Mines (2015-2017)\nBS in Mechanical Engineering, CU (2011-2015)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 94,
+            "aiGeneratedFeedback": "Exceptional corporate training experience with measurable results. Ideal candidate for senior training role.",
+            "resume": {
+                "filename": "zoey_howard_resume.pdf",
+                "fileUrl": "resumes/zoey_howard_resume.pdf",
+                "contactDetails": "Phone: (512) 555-7788, Email: zoey.howard@example.com, LinkedIn: linkedin.com/in/zoeyhoward",
+                "summary": "Corporate Trainer with 9 years of experience in professional development and leadership training.",
+                "skills": "Curriculum Design, Facilitation, LMS Management, Leadership Development",
+                "experience": "Senior Trainer at Leadership Institute (2018-Present)\n- Trained 1000+ professionals\n- Increased training effectiveness by 40%\n\nTrainer at Professional Growth (2014-2018)",
+                "education": "MA in Organizational Psychology, UT Austin (2012-2014)\nBA in Education, UT Austin (2008-2012)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 77,
+            "aiGeneratedFeedback": "Good accounting skills with QuickBooks expertise. Suitable for part-time accountant position.",
+            "resume": {
+                "filename": "carter_peterson_resume.pdf",
+                "fileUrl": "resumes/carter_peterson_resume.pdf",
+                "contactDetails": "Phone: (312) 555-8899, Email: carter.peterson@example.com, LinkedIn: linkedin.com/in/carterpeterson",
+                "summary": "Accountant with 4 years of experience in small business accounting and tax preparation.",
+                "skills": "QuickBooks, Tax Preparation, Financial Reporting, Payroll Management",
+                "experience": "Accountant at Small Business Services (2020-Present)\n- Managed books for 25+ clients\n- Prepared quarterly tax estimates\n\nBookkeeper at Accounting Pros (2018-2020)",
+                "education": "BS in Accounting, DePaul (2014-2018)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 53,
+            "aiGeneratedFeedback": "Limited software development experience for senior developer position.",
+            "resume": {
+                "filename": "lily_watson_resume.pdf",
+                "fileUrl": "resumes/lily_watson_resume.pdf",
+                "contactDetails": "Phone: (650) 555-9900, Email: lily.watson@example.com, LinkedIn: linkedin.com/in/lilywatson",
+                "summary": "Junior Developer with 1 year of experience in web application development.",
+                "skills": "JavaScript, HTML, CSS, React Basics, Node.js Fundamentals",
+                "experience": "Junior Developer at Tech Startup (2022-Present)\n- Developed simple web applications\n- Fixed frontend bugs",
+                "education": "Bootcamp Certificate, Coding Academy (2022)\nBA in Design, UC Berkeley (2018-2022)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 88,
+            "aiGeneratedFeedback": "Exceptional cloud architecture skills with multi-cloud expertise. Strong candidate for cloud engineer role.",
+            "resume": {
+                "filename": "gabriel_cooper_resume.pdf",
+                "fileUrl": "resumes/gabriel_cooper_resume.pdf",
+                "contactDetails": "Phone: (415) 555-1122, Email: gabriel.cooper@example.com, LinkedIn: linkedin.com/in/gabrielcooper",
+                "summary": "Cloud Architect with 7 years of experience in AWS and Azure environments. AWS Certified Solutions Architect Professional.",
+                "skills": "AWS, Azure, Terraform, Kubernetes, Cloud SecUrlty, CI/CD",
+                "experience": "Cloud Engineer at Cloud Innovations (2020-Present)\n- Migrated 50+ applications to cloud\n- Reduced cloud costs by 35%\n\nDevOps Engineer at Tech Systems (2017-2020)",
+                "education": "MS in Cloud Computing, Georgia Tech (2015-2017)\nBS in Computer Science, UCLA (2011-2015)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 96,
+            "aiGeneratedFeedback": "Exceptional sales leadership with quantifiable results. Perfect fit for sales director position.",
+            "resume": {
+                "filename": "victoria_reed_resume.pdf",
+                "fileUrl": "resumes/victoria_reed_resume.pdf",
+                "contactDetails": "Phone: (212) 555-2233, Email: victoria.reed@example.com, LinkedIn: linkedin.com/in/victoriareed",
+                "summary": "Sales Director with 12 years of experience in financial services sales and team leadership.",
+                "skills": "Sales Strategy, CRM Management, Team Leadership, Market Analysis, Client Acquisition",
+                "experience": "Sales Director at Financial Solutions (2018-Present)\n- Grew revenue by 200%\n- Managed 25-person sales team\n\nSales Manager at Investment Group (2013-2018)",
+                "education": "MBA in Marketing, NYU (2011-2013)\nBS in Business, NYU (2007-2011)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 73,
+            "aiGeneratedFeedback": "Good warehouse experience but lacks advanced technical skills for coordinator role.",
+            "resume": {
+                "filename": "henry_nelson_resume.pdf",
+                "fileUrl": "resumes/henry_nelson_resume.pdf",
+                "contactDetails": "Phone: (305) 555-3344, Email: henry.nelson@example.com, LinkedIn: linkedin.com/in/henrynelson",
+                "summary": "Warehouse Supervisor with 3 years of experience in inventory management and team coordination.",
+                "skills": "Inventory Control, Forklift Operation, Team Supervision, Shipping/Receiving",
+                "experience": "Warehouse Supervisor at Distribution Center (2020-Present)\n- Managed 10-person team\n- Reduced inventory errors by 25%\n\nAssociate at Retail Warehouse (2018-2020)",
+                "education": "High School Diploma, Warehouse Management Certificate"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 49,
+            "aiGeneratedFeedback": "Insufficient consulting experience for organizational development role.",
+            "resume": {
+                "filename": "scarlett_cook_resume.pdf",
+                "fileUrl": "resumes/scarlett_cook_resume.pdf",
+                "contactDetails": "Phone: (312) 555-4455, Email: scarlett.cook@example.com, LinkedIn: linkedin.com/in/scarlettcook",
+                "summary": "Business graduate seeking entry-level consulting position. Completed internship in process improvement.",
+                "skills": "Business Analysis, Process Mapping, Basic Data Analysis",
+                "experience": "Consulting Intern at Business Solutions (2022)\n- Assisted with process documentation\n- Conducted research for client projects",
+                "education": "BBA in Management, UIC (2018-2022)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 81,
+            "aiGeneratedFeedback": "Good pharmaceutical knowledge with inventory experience. Suitable for pharmacy technician position.",
+            "resume": {
+                "filename": "jackson_morgan_resume.pdf",
+                "fileUrl": "resumes/jackson_morgan_resume.pdf",
+                "contactDetails": "Phone: (617) 555-5566, Email: jackson.morgan@example.com, LinkedIn: linkedin.com/in/jacksonmorgan",
+                "summary": "Certified Pharmacy Technician with 2 years of experience in retail pharmacy operations.",
+                "skills": "Prescription Processing, Inventory Management, Customer Service, HIPAA Compliance",
+                "experience": "Pharmacy Tech at Community Pharmacy (2021-Present)\n- Processed 100+ daily prescriptions\n- Managed medication inventory\n\nPharmacy Assistant at Drug Store (2020-2021)",
+                "education": "Pharmacy Technician Certification, BPS (2020)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 90,
+            "aiGeneratedFeedback": "Excellent SEO expertise with proven results. Strong candidate for digital marketing specialist role.",
+            "resume": {
+                "filename": "madison_bell_resume.pdf",
+                "fileUrl": "resumes/madison_bell_resume.pdf",
+                "contactDetails": "Phone: (650) 555-6677, Email: madison.bell@example.com, LinkedIn: linkedin.com/in/madisonbell",
+                "summary": "SEO Specialist with 5 years of experience in search engine optimization and digital marketing.",
+                "skills": "SEO Strategy, Google Analytics, SEMrush, Keyword Research, Content Optimization",
+                "experience": "SEO Manager at Digital Agency (2020-Present)\n- Increased organic traffic by 150%\n- Managed $100k SEO budget\n\nSEO Specialist at Marketing Firm (2018-2020)",
+                "education": "BS in Marketing, San Francisco State (2014-2018)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 76,
+            "aiGeneratedFeedback": "Good facilities coordination experience with technical skills. Suitable for facilities management role.",
+            "resume": {
+                "filename": "leo_russell_resume.pdf",
+                "fileUrl": "resumes/leo_russell_resume.pdf",
+                "contactDetails": "Phone: (303) 555-7788, Email: leo.russell@example.com, LinkedIn: linkedin.com/in/leorussell",
+                "summary": "Facilities Coordinator with 4 years of experience in office management and maintenance coordination.",
+                "skills": "Facility Management Software, Vendor Management, Maintenance Coordination, Space Planning",
+                "experience": "Facilities Coordinator at Corporate Campus (2020-Present)\n- Managed 75k sq ft facility\n- Reduced maintenance costs by 18%\n\nFacilities Assistant at Business Park (2018-2020)",
+                "education": "BS in Facilities Management, DU (2014-2018)"
+            }
+        },
+        {
+            "status": "rejected",
+            "aiGeneratedScore": 57,
+            "aiGeneratedFeedback": "Limited IT experience for network administrator position.",
+            "resume": {
+                "filename": "penelope_bailey_resume.pdf",
+                "fileUrl": "resumes/penelope_bailey_resume.pdf",
+                "contactDetails": "Phone: (617) 555-8899, Email: penelope.bailey@example.com, LinkedIn: linkedin.com/in/penelopebailey",
+                "summary": "IT graduate seeking entry-level network position. Completed CCNA certification.",
+                "skills": "Basic Networking, Windows Server, Troubleshooting, Hardware Installation",
+                "experience": "IT Intern at School District (2022)\n- Assisted with network maintenance\n- Installed workstations",
+                "education": "BS in Information Technology, NEU (2018-2022)\nCCNA Certified (2022)"
+            }
+        },
+        {
+            "status": "pending",
+            "aiGeneratedScore": 85,
+            "aiGeneratedFeedback": "Strong talent acquisition experience with technical recruiting skills. Good match for HR business partner role.",
+            "resume": {
+                "filename": "wyatt_sanders_resume.pdf",
+                "fileUrl": "resumes/wyatt_sanders_resume.pdf",
+                "contactDetails": "Phone: (303) 555-9900, Email: wyatt.sanders@example.com, LinkedIn: linkedin.com/in/wyattsanders",
+                "summary": "Technical Recruiter with 5 years of experience in sourcing engineering and IT talent.",
+                "skills": "Technical Recruiting, Applicant Tracking Systems, Interview Coordination, Employer Branding",
+                "experience": "Senior Recruiter at TechTalent (2020-Present)\n- Filled 50+ technical positions annually\n- Reduced time-to-hire by 30%\n\nRecruiter at Staffing Solutions (2017-2020)",
+                "education": "BA in Psychology, CU Denver (2013-2017)"
+            }
+        },
+        {
+            "status": "accepted",
+            "aiGeneratedScore": 92,
+            "aiGeneratedFeedback": "Exceptional environmental engineering expertise with sustainability focus. Perfect fit for green projects.",
+            "resume": {
+                "filename": "hazel_price_resume.pdf",
+                "fileUrl": "resumes/hazel_price_resume.pdf",
+                "contactDetails": "Phone: (512) 555-0011, Email: hazel.price@example.com, LinkedIn: linkedin.com/in/hazelprice",
+                "summary": "Environmental Engineer with 8 years of experience in sustainable design and regulatory compliance.",
+                "skills": "Environmental Impact Assessment, Sustainability Planning, GIS, Regulatory Compliance",
+                "experience": "Senior Environmental Engineer at EcoDesign (2019-Present)\n- Led LEED-certified projects\n- Reduced carbon footprint by 40%\n\nEngineer at GreenSolutions (2015-2019)",
+                "education": "MS in Environmental Engineering, UT Austin (2013-2015)\nBS in Civil Engineering, UT Austin (2009-2013)"
+            }
+        }
+    ]
+}
